@@ -1,2 +1,2 @@
-# C-Learning
-My own C++ learning notes.
+# Coding-Note
+My own code learning notes.
